@@ -1,4 +1,4 @@
-# Cloud-Computing
+# AWS Dining Concierge chatbot
 
 Task:  
 Implement a serverless, microservice-driven web application. 
